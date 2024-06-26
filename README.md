@@ -1,6 +1,4 @@
-# rn-assignment5-11146019
-rn-assignment5-11015103 project
-
+# rn-assignment5-11015103
 
 Overview
 
@@ -21,5 +19,20 @@ Styles
 Styling is defined using StyleSheet.create and dynamically applied based on the isDarkMode state to maintain consistency across the application's interface.
 
 This revised version maintains clarity and conciseness while ensuring all key features and functionalities are effectively communicated.
+
+
+
+
+
+
+![screenshot](https://github.com/dacosta220/rn-assignment5-11015103/assets/170238976/1dcd0396-d899-4aca-a77a-12c289b040ed)
+
+
+
+
+
+
+
+
 
 
